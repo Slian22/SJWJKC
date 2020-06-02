@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="076e0ee6-c433-4690-95dc-0bdd45e889fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FXLSH/Train-2.4.3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FXLSH/Train-3.3+3.4+3.5.1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FXLSH/Train-3.5.2+3.5.3+3.5.4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FXLSH/Train-4.1+4.2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FXLSH/cache/joblib/mglearn/plot_nmf/nmf_faces/80a749e3c372b95418ab5df0fa77c5f8/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FXLSH/cache/joblib/mglearn/plot_nmf/nmf_faces/80a749e3c372b95418ab5df0fa77c5f8/output.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SJWJKC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SJWJKC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="076e0ee6-c433-4690-95dc-0bdd45e889fe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +166,7 @@
       <workItem from="1589974333908" duration="1220000" />
       <workItem from="1591098588414" duration="4737000" />
       <workItem from="1591103733069" duration="1733000" />
-      <workItem from="1591106018251" duration="3308000" />
+      <workItem from="1591106018251" duration="3568000" />
     </task>
     <servers />
   </component>
